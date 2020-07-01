@@ -1,2 +1,10 @@
 # Project exclude paths
 /bdwms_lab_codes/cmu_15445_2018/cmake-build-debug/
+bdwms_lab_codes/.DS_Store
+bdwms_lab_codes/cmu_15445_2018/build/
+notes/.DS_Store
+notes/homework_notes/.DS_Store
+notes/homework_notes/hw-sol/.DS_Store
+notes/homework_notes/hw/.DS_Store
+notes/official_notes/.DS_Store
+notes/study_notes/.DS_Store
